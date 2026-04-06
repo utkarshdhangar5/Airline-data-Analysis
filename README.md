@@ -13,13 +13,13 @@ Power Query
 
 ## 📂 Dataset Description
 The dataset consists of multiple relational tables:
-aircrafts_data → Aircraft details
-airports_data → Airport & city information
-flights → Flight schedules
-tickets & bookings → Booking details
-ticket_flights → Ticket-level revenue
-boarding_passes → Passenger boarding data
-seats → Aircraft seating capacity
+- aircrafts_data → Aircraft details
+- airports_data → Airport & city information
+- flights → Flight schedules
+- tickets & bookings → Booking details
+- ticket_flights → Ticket-level revenue
+- boarding_passes → Passenger boarding data
+- seats → Aircraft seating capacity
 
 ## ⚙️ Data Processing
 Connected and extracted data from SQLite database
